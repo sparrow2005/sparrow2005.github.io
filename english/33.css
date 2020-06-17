@@ -1,0 +1,39 @@
+nav{
+    background-color: #a6d2d5;
+    font-size: 1.3rem;
+}
+.logo{
+    padding-top: 6rem;
+    background-image: url(assorted-title-cassette-tapes-2796145.jpg);
+    height: 400px;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo-text{
+    font-style: italic;
+    font-size: 4.5rem;
+    text-align: center;
+}
+.left-text{
+    background-color: #a6d2d5;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    font-family: 'yeseva one' cursive;
+}
+.row{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+    text-shadow: black;
+}
+.fon-color{
+    background-color:darkgrey;
+}
+.fon-img{
+    background-color:rgb(235, 210, 177);
+}
+.video{
+    padding: 2rem;
+}
